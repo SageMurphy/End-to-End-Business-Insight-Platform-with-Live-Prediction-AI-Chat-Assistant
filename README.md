@@ -59,7 +59,7 @@ Build a full-fledged analytics system that:
 ### Setup Instructions
 ```bash
 # Clone repo
-[https://github.com/yourusername/data-insight-platform.git](https://github.com/SageMurphy/End-to-End-Business-Insight-Platform-with-Live-Prediction-AI-Chat-Assistant)
+https://github.com/SageMurphy/End-to-End-Business-Insight-Platform-with-Live-Prediction-AI-Chat-Assistant
 cd data-insight-platform
 
 # Install dependencies
