@@ -1,4 +1,4 @@
-# 📊 Imarticus Data Science Internship - Assessment
+# 📊 Data Science Internship - Assessment
 
 ## 🔥 Project Title:
 **End-to-End Business Insight Platform with Live Prediction & AI Chat Assistant**
@@ -112,7 +112,7 @@ streamlit run app.py
 
 ## 👥 Contributors
 - Abhishek Shrimali
-- Imarticus Data Science Internship Assessment 2025 Cohort
+- Data Science Internship Assessment 2025 Cohort
 
 ---
 
