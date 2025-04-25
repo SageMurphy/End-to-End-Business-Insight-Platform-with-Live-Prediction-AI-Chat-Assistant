@@ -80,6 +80,10 @@ streamlit run app.py
 ├── screenshots/                  # Dashboard and chatbot UI images
 └── README.md                     # Project overview file
 ```
+### Screenshots
+![DASHBOARD2025-04-25T13_18_11 450Z](https://github.com/user-attachments/assets/128beb43-4b2a-45d7-a8a5-3096adbf37c0)
+
+![CHATBOT025-04-25T13_17_35 675Z](https://github.com/user-attachments/assets/7697373a-3298-4042-abd9-4b98c0a1a1cc)
 
 ---
 
